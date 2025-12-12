@@ -1,4 +1,4 @@
-# Solana Trading Platform Infrastructure
+# Blockchain Trading Platform Demo
 
 A comprehensive indexing solution for Solana and EVM blockchain data using the Moralis API. This project provides real-time indexing of transactions, token balances, NFTs, and native balances for multiple addresses across both Solana and EVM chains.
 
